@@ -5,3 +5,11 @@ E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\obj
 E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\obj\Debug\PROG2070Assign2.csproj.CoreCompileInputs.cache
 E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\obj\Debug\PROG2070Assign2.exe
 E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\obj\Debug\PROG2070Assign2.pdb
+E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\bin\Debug\NUnit3.TestAdapter.dll
+E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\bin\Debug\NUnit3.TestAdapter.pdb
+E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\bin\Debug\nunit.engine.dll
+E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\bin\Debug\nunit.engine.api.dll
+E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\bin\Debug\nunit.framework.dll
+E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\bin\Debug\nunit.framework.pdb
+E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\bin\Debug\nunit.framework.xml
+E:\Semester 4\Quality Assurance\Assignment 2\PROG2070Assign2\PROG2070Assign2\obj\Debug\PROG2070Assign2.csproj.CopyComplete
