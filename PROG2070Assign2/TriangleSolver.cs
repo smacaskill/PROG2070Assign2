@@ -24,10 +24,10 @@ namespace PROG2070Assign2
         /// <returns></returns>
         public static string Analyze(int sideA, int sideB, int sideC)
         {
-            // Checks for Sum of 2 sides less than 3rd or any side less than 1
-            if (sideA + sideB < sideC ||
-                sideA + sideC < sideB ||
-                sideB + sideC < sideA ||
+            // Checks for Sum of 2 sides greater than 3rd side
+            if (sideA + sideB <= sideC ||
+                sideA + sideC <= sideB ||
+                sideB + sideC <= sideA ||
                 sideA <= 0 || sideB <= 0 || sideC <= 0)
             {
                 return "Those values do not form a triangle";
